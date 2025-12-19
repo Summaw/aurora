@@ -176,3 +176,28 @@ aurora/
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+## Media
+# _examples\basic
+<img width="603" height="603" alt="image" src="https://github.com/user-attachments/assets/36579620-352c-4852-96dc-981f62ddff9d" />
+
+# _examples\banner
+<img width="1041" height="1077" alt="image" src="https://github.com/user-attachments/assets/bca4e183-cd68-4b86-bc37-f250567b67cf" />
+
+# _examples\server
+<img width="911" height="1264" alt="image" src="https://github.com/user-attachments/assets/8cf43258-48c2-4b22-b2da-974c630c1474" />
+
+
+## ⭐ Support Aurora
+
+If Aurora makes your logs easier to read, debug, or demo:
+
+- ⭐ Star this repository to support the project
+
+- 🐛 Open an issue if you find a bug or have an idea
+
+- 🔧 Submit a PR — contributions are welcome
+
+- 💬 Share Aurora with your team or community
+
+Every star helps Aurora grow and motivates future features 🚀
